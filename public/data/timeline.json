@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "title": "AI Artist",
+            "company": "Freelancing",
+            "tasks": "Developed AI art using machine learning models and sold them on various platforms.",
+            "tags": ["Stable Diffusion", "DALL-E", "Flux", "DAZ 3D" , "Photoshop"],
+            "year": "2024"
+        },
+        {
+            "title": "Assistant Lecturer - Machine Generative Design",
+            "company": "Institute of Visual Arts, Sri Lanka",
+            "tasks": "Taught machine generative design principles and tools to students, and provided guidance on their projects.",
+            "tags": ["Stable Diffusion", "GANs", "StyleGAN", "DALL-E"],
+            "year": "2022"
+        },
+        {
+            "title": "Assistant Lecturer - Visual Design",
+            "company": "Institute of Visual Arts, Sri Lanka",
+            "tasks": "Taught visual design principles and tools to students, and provided guidance on their projects.",
+            "tags": ["Photoshop", "Illustrator", "InDesign"],
+            "year": "2021"
+        },
+        {
+            "title": "UI Designer",
+            "company": "Creaty, Sri Lanka",
+            "tasks": "Designed and developed user interfaces for mobile and web applications, ensuring a seamless user experience.",
+            "tags": ["Figma", "Sketch", "Adobe XD"],
+            "year": "2019"
+        }
+    ]
+}
